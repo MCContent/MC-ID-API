@@ -1,7 +1,7 @@
 # MC-ID-API
 This allows you to import and use all of Minecraft Items and Entities on your website using HTML, PHP, JS, NodeJS, Etc.
 
-##### Installing
+#### Installing
 1. To install, simply put `<link rel="stylesheet" href="http://cdn.lightwiremc.net/MCIDAPI.css">` in to the `<head></head>` tags.
 That's it! You can start using the MC ID API Class
 
