@@ -29,4 +29,4 @@ By using HTMl, you can simply do `<span class="mc-id"></<span>`. However, thats 
 	<p>The MC-ID-API class is really easy to learn and use. You barely need any HTML programming experience, however, you should need at least just enough to create a static website! But anyways, you need a Cookie! So, here's a Cookie: <span class="mc-id mc-cookie"></<span></p>
 </body>
 ```
-See how easy it it?!?!
+See how easy it is?!?!
